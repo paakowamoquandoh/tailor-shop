@@ -1,4 +1,4 @@
-import { shopItems } from "./shop";
+import { shopItems } from "./shop.js";
 const mobileMenu = document.getElementById("mobileMenu");
 const navMenuItems = document.getElementById("navItems");
 const navMenuClose = document.getElementById("mobileMenuClose");
